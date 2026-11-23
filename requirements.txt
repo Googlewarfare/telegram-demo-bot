@@ -1,0 +1,3 @@
+python-telegram-bot[job-queue]>=21.6,<23   # Telegram + the scheduler for reminders/checks
+python-dotenv>=1.0                          # reads the token from .env
+requests>=2.31                              # downloads web pages for /watch
